@@ -1,106 +1,59 @@
-Диагностика компьютера 
-============================================================ 
-Caption: �������� Windows 10 ������� ��� ������ �몠 
-Version: 10.0.19045 
-Процессор: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz   
-Всего памяти: 5 ГБ 
-Свободно памяти: 2 ГБ 
-Диск C — всего: 370 ГБ 
-Диск C — свободно: 265 ГБ 
-Установленные программы 
----------------------------------------- 
-draw.io 31.7.0 
-7-Zip 19.00 (x64) 
-Avast Free Antivirus 
-Conexant HD Audio 
-Pantum M6500W Series 
-PostgreSQL 18  
-Terraria 
-Unturned Dedicated Server 
-tModLoader 
-Muck 
-STALCRAFT 
-Hotline Miami 2: Wrong Number 
-Garry's Mod 
-Spacewar 
-Bloons TD 6 
-WinRAR 6.01 (64-разрядная) 
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 
-Microsoft Visual C++ 2005 Redistributable (x64) 
-Проверка работоспособности ПК Windows 
-Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219 
-Microsoft Update Health Tools 
-7-Zip 22.00 (x64 edition) 
-Java 8 Update 152 (64-bit) 
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 
-Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211 
-Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161 
-Dolby Digital Plus Home Theater 
-Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211 
-Microsoft Office Office 64-bit Components 2010 
-Microsoft Office Shared 64-bit MUI (Russian) 2010 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000 
-Update for x64-based Windows Systems (KB5001716) 
-Classic Shell 
-Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 
-Terraria 
-Stardew Valley 
-Slime Rancher 
-Forager 
-Freearc Repack [1.0] 
-K-Lite Mega Codec Pack 14.8.8 
-Hamachi 
-Microsoft Edge 
-Среда выполнения Microsoft Edge WebView2 Runtime 
-Microsoft Office профессиональный плюс 2010 
-Rainbow Six Vegas 2 
-S.T.A.L.K.E.R. Clear Sky v.1.5.10 
-S.T.A.L.K.E.R. Shadow of Chernobyl 
-Steam 
-The KMPlayer RePack by CUTA 
-Worldbox v0.14.3-472 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 
-Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 
-GameGuard 
-Java 8 Update 152 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 
-Realtek Card Reader 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001 
-Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 
-Microsoft Office Professional Plus 2010 
-ECHO is off.
-Microsoft Office Access MUI (Russian) 2010 
-Microsoft Office Excel MUI (Russian) 2010 
-Microsoft Office PowerPoint MUI (Russian) 2010 
-Microsoft Office Publisher MUI (Russian) 2010 
-Microsoft Office Outlook MUI (Russian) 2010 
-Microsoft Office Word MUI (Russian) 2010 
-Microsoft Office Proof (German) 2010 
-Microsoft Office Proof (English) 2010 
-Microsoft Office Proof (Russian) 2010 
-Microsoft Office Proof (Ukrainian) 2010 
-Microsoft Office Proofing (Russian) 2010 
-Microsoft Office InfoPath MUI (Russian) 2010 
-Microsoft Office Shared MUI (Russian) 2010 
-Microsoft Office OneNote MUI (Russian) 2010 
-Microsoft Office Groove MUI (Russian) 2010 
-Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 
-Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 
-Microsoft Visual C++ 2005 Redistributable 
-Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 
-Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
-Hamachi 
-Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 
-Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 
-Microsoft XNA Framework Redistributable 4.0 Refresh 
-Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211 
-NVIDIA PhysX 
-Magicka 2 
-Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 
-Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 
-Radmin VPN 1.4.1 
-Отчёт сохранён 
+Диагностика компьютера
+============================================================
+Дата формирования: 07.11.2026 18:29:20,50
+============================================================
+
+
+Операционная система
+  Система: �������� Windows 10 ������� ��� ������ �몠
+  Версия:  10.0.19045
+
+Процессор
+  Название: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz  
+
+Оперативная память
+  Всего памяти:    6 ГБ
+  Свободно памяти: 2 ГБ
+
+Диск C:
+  Всего места:    370 ГБ
+  Свободно места: 261 ГБ
+
+Идёт поиск установленных программ, это может занять несколько минут...
+
+============================================================
+1. ПРОВЕРКА БАЗОВОГО ОФИСНОГО ПО
+============================================================
+  [OK] Офисный пакет: Microsoft Office профессиональный плюс 2010
+  [OK] Браузер: Microsoft Edge
+  [CAT: Не обнаружена программа для чтения PDF. Для работы с вложениями рекомендуется установить Adobe Acrobat Reader или SumatraPDF.
+  [OK] Архиватор: 7-Zip 19.00 (x64)
+  [CAT: Не обнаружен антивирус. Для защиты рабочего места рекомендуется установить корпоративный антивирус или использовать Windows Defender.
+
+============================================================
+2. ПРОВЕРКА ИЗЛИШНЕГО ПО (к проверке, а не к удалению)
+============================================================
+Внимание: это рекомендация к проверке, а не указание к удалению.
+Часть программ может быть установлена по согласованию с руководством.
+
+
+--- Игровое ПО и игровые платформы ---
+  Найдено: Steam
+  Найдено: GameGuard
+
+--- Торрент-клиенты и файлообменники ---
+  Не найдено — в порядке.
+
+--- Мессенджеры личного общения (проверить необходимость) ---
+  Не найдено — в порядке.
+
+--- Развлечения и оформление (проверить необходимость) ---
+  Не найдено — в порядке.
+
+============================================================
+ИТОГ
+============================================================
+Проверено категорий базового ПО: 5
+  в порядке:            3
+  требуют внимания:     2
+Отчёт сохранён: C:\Users\Lenovo\Desktop\pc_report.txt
